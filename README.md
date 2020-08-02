@@ -36,12 +36,9 @@ The `Utils.py` consists of the functions used to convert the matrix output ( gri
 
 ## Results :
 
-![alt text](https://github.com/piyushpathak03/YOLO-Algorithm/tree/master/Results1/28.jpg)
+![alt text](https://github.com/piyushpathak03/YOLO-Algorithm/blob/master/Results1/114.jpg)
 <br />
-![alt text](https://github.com/piyushpathak03/YOLO-Algorithm/tree/master/Results1/113.jpg)
-<br />
-![alt text](https://github.com/piyushpathak03/YOLO-Algorithm/tree/master/Results1/114.jpg)
-<br />
+
 
 ## Requirements : 
 
